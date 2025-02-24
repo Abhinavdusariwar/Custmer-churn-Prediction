@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Hp/pthh/mlruns/832544007899719913/29a2d39aa7594e6885ba950ab3477e6f/artifacts
+deleted_time: 1740321783477
+end_time: 1739863640330
+entry_point_name: ''
+experiment_id: '832544007899719913'
+lifecycle_stage: deleted
+run_id: 29a2d39aa7594e6885ba950ab3477e6f
+run_name: DecisionTree
+run_uuid: 29a2d39aa7594e6885ba950ab3477e6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739863640202
+status: 4
+tags: []
+user_id: Hp

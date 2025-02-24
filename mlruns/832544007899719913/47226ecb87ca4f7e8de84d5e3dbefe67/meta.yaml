@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Hp/pthh/mlruns/832544007899719913/47226ecb87ca4f7e8de84d5e3dbefe67/artifacts
+end_time: 1740337524030
+entry_point_name: ''
+experiment_id: '832544007899719913'
+lifecycle_stage: active
+run_id: 47226ecb87ca4f7e8de84d5e3dbefe67
+run_name: RandomForest
+run_uuid: 47226ecb87ca4f7e8de84d5e3dbefe67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740337410801
+status: 3
+tags: []
+user_id: Hp

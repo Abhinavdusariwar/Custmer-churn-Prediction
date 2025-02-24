@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Hp/pthh/mlruns/0/b35cb39993cd4802a11d55ca7ce79296/artifacts
+end_time: 1739863378057
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b35cb39993cd4802a11d55ca7ce79296
+run_name: adorable-boar-354
+run_uuid: b35cb39993cd4802a11d55ca7ce79296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739863377879
+status: 4
+tags: []
+user_id: Hp

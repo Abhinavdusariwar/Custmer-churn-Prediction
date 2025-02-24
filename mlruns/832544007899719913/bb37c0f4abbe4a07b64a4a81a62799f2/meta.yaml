@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Hp/pthh/mlruns/832544007899719913/bb37c0f4abbe4a07b64a4a81a62799f2/artifacts
+end_time: 1739865018559
+entry_point_name: ''
+experiment_id: '832544007899719913'
+lifecycle_stage: active
+run_id: bb37c0f4abbe4a07b64a4a81a62799f2
+run_name: LogisticRegression
+run_uuid: bb37c0f4abbe4a07b64a4a81a62799f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739865014948
+status: 3
+tags: []
+user_id: Hp

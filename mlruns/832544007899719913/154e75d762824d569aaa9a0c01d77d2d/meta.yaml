@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Hp/pthh/mlruns/832544007899719913/154e75d762824d569aaa9a0c01d77d2d/artifacts
+end_time: 1740320623823
+entry_point_name: ''
+experiment_id: '832544007899719913'
+lifecycle_stage: active
+run_id: 154e75d762824d569aaa9a0c01d77d2d
+run_name: XGBoost
+run_uuid: 154e75d762824d569aaa9a0c01d77d2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740320603161
+status: 3
+tags: []
+user_id: Hp

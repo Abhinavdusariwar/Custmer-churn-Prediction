@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Hp/pthh/mlruns/832544007899719913/22d379d27e504426babed54ffa00fb5f/artifacts
+end_time: 1739865014925
+entry_point_name: ''
+experiment_id: '832544007899719913'
+lifecycle_stage: active
+run_id: 22d379d27e504426babed54ffa00fb5f
+run_name: DecisionTree
+run_uuid: 22d379d27e504426babed54ffa00fb5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739864947187
+status: 3
+tags: []
+user_id: Hp
