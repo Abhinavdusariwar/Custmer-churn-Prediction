@@ -1,0 +1,35 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore MLflow tracking folder
+mlruns/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments (if any)
+.venv/
+env/
+venv/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore Jupyter Notebook checkpoints (if you use notebooks)
+.ipynb_checkpoints/
+
+# Ignore large files and model binaries (optional)
+*.pkl
+*.h5
+*.ckpt
+*.csv
+*.tsv
+*.sqlite
+*.db
+# Ignore all PNG files
+*.png
